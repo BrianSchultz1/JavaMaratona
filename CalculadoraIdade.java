@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 //Faça um programa em Java que receba a idade de uma pessoa
 //expressa em anos, meses e dias, calcule e informe quantos dias
-//a pessoa já viveu. Considere que todos os meses têm 30 dias.
+//a pessoa já viveu. Considere que todos os meses têm 30 dias. 
 public class CalculadoraIdade {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
